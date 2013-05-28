@@ -13,3 +13,5 @@ apt-get install curl conky -y
 Or:
 
 yum install -y curl conky
+
+Then git clone https://github.com/mariusv/conky-google-now.git . Rename 'conky' and 'weathericons' to '.conky' and '.weathericons' and you are good to go :-)
